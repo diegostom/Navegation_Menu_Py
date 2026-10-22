@@ -28,7 +28,7 @@ Si deseas clonar este repositorio para probar el menú o jugar al minijuego inte
 
 bash
 
-git clone https://github.com/TU_USUARIO/navegation_menu_py.git
+git clone https://github.com/diegostom_DEV/navegation_menu_py.git
 cd navegation_menu_py
 
 Usa el código con precaución.
